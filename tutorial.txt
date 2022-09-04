@@ -1,0 +1,5 @@
+1: pra rodar o banco de dados, abrir pasta mongodb em programs files e executa arquivo mongodb.executa
+
+2:npm install mongodb
+
+3:
